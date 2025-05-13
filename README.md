@@ -1,7 +1,5 @@
 # 🎓 OSSU - Computer Science Journey
 
-![Progress](https://progress-bar.dev/0/?title=Overall+Progress&width=300)
-
 This repository tracks my progress through the [OSSU Computer Science Curriculum](https://cs.ossu.dev/), a free, self-taught education in Computer Science based on the courses from top universities such as MIT, Harvard, and Stanford.
 
 > 🧠 **Started**: May 13, 2025  
