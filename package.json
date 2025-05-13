@@ -1,0 +1,15 @@
+{
+  "name": "ossu-computer-science",
+  "version": "1.0.0",
+  "description": "This repository tracks my progress through the [OSSU Computer Science Curriculum](https://cs.ossu.dev/), a free, self-taught education in Computer Science based on the courses from top universities such as MIT, Harvard, and Stanford.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+   "update-progress": "node scripts/update-progress.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
